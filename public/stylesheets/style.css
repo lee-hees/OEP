@@ -1620,7 +1620,7 @@ body {
   min-height: calc(100px + 10vh);
   top: -70px;
   background-color: red;
-  background: url(/public/images/wall2.png) center center / cover no-repeat;
+  background: url(/OEP/public/images/wall2.png) center center / cover no-repeat;
   filter: brightness(50%);
   position: relative;
   z-index: 1;
